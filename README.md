@@ -25,6 +25,6 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 
 <h3 id="status">📌 Status do projeto</h3>
 
-Em fase de testes. 🚧
+Em fase de testes 🚧
 
 
