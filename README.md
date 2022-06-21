@@ -24,6 +24,6 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 <img src="./img/readme.gif/" width="600px">
 
 <h3 id="status">📌 Status do projeto</h3>
-
+<p>Concluído</p>
 
 
